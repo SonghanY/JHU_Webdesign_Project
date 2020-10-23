@@ -1,2 +1,2 @@
-# JHU_Webdesign_Project
+# Webdesign_Project
 Cousera HTML, CSS, and Javascript courses for Web developers
